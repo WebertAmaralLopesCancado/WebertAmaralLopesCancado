@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  6+ years building enterprise-grade systems in healthcare and mobility sectors.<br/>
+  10+ years building enterprise-grade systems in healthcare and mobility sectors.<br/>
   Focused on clean architecture, event-driven design, and cloud-native solutions.
 </p>
 
